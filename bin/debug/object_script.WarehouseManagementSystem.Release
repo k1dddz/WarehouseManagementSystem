@@ -1,0 +1,15 @@
+release/caccountdlg.o
+release/caddaccountdlg.o
+release/clogindlg.o
+release/cstatusdlg.o
+release/cstoragedlg.o
+release/database.o
+release/global.o
+release/main.o
+release/mainwindow.o
+release/moc_caccountdlg.o
+release/moc_caddaccountdlg.o
+release/moc_clogindlg.o
+release/moc_cstatusdlg.o
+release/moc_cstoragedlg.o
+release/moc_mainwindow.o

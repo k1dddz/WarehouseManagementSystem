@@ -1,0 +1,15 @@
+debug/caccountdlg.o
+debug/caddaccountdlg.o
+debug/clogindlg.o
+debug/cstatusdlg.o
+debug/cstoragedlg.o
+debug/database.o
+debug/global.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_caccountdlg.o
+debug/moc_caddaccountdlg.o
+debug/moc_clogindlg.o
+debug/moc_cstatusdlg.o
+debug/moc_cstoragedlg.o
+debug/moc_mainwindow.o
